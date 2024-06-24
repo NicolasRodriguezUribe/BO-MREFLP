@@ -4,8 +4,6 @@ The Bi-Objective Multiple Row Equal Facility Layout Problem considers both quant
 <!-- * Paper link: [https://doi.org/10.1007/s12652-021-03510-4](https://doi.org/10.1007/s12652-021-03510-4) -->
 * Paper link: https://www.sciencedirect.com/science/article/pii/S1568494624006719
 
-![Open Access Logo](https://es.wikipedia.org/wiki/Archivo:Open_Access_logo_PLoS_white.svg)
-
 ## Descripción
 
 Aquí va la descripción de tu proyecto...
