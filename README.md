@@ -1,12 +1,9 @@
 # A GRASP method for the Bi-Objective Multiple Row Equal Facility Layout Problem
 
 The Bi-Objective Multiple Row Equal Facility Layout Problem considers both quantitative and qualitative objectives that are very useful in many scenarios like the factory design. In this work, a new multi-objective GRASP approach is proposed which applies an ensemble of four different constructive methods followed by the combination of two local search procedures, improving the results from the state of the art. Due to the superiority of this proposal, a new dataset of larger problem instances is generated, providing detailed metrics of the obtained solutions.
-<!-- * Paper link: [https://doi.org/10.1007/s12652-021-03510-4](https://doi.org/10.1007/s12652-021-03510-4) -->
-* Paper link: https://www.sciencedirect.com/science/article/pii/S1568494624006719
 
-## Descripción
+* Paper link: [https://www.sciencedirect.com/science/article/pii/S1568494624006719](https://doi.org/10.1016/j.eswa.2021.115184)
 
-Aquí va la descripción de tu proyecto...
 
 <!-- * Impact Factor: 3.662  -->
 <!-- * Quartil: Q2 - 68/145 - Computer Science, Artificial Intelligence | Q2 - 73/164 - Computer Science, Information Systems | 2021  <br> -->
@@ -32,25 +29,28 @@ The algorithms are executed a total of 30 times.
 Each folder contains the execution of the 4 GRASP configurations, NSGA-II, and SPEA2. 
 Each folder includes the set of non-dominated solutions obtained.
 
- <!-- 
+ 
 ## Cite
 
 Please cite our paper if you use it in your own work:
 
 Bibtext
 ```
-@article{LozanoOsorio2021,
-  doi = {10.1007/s12652-021-03510-4},
-  url = {https://doi.org/10.1007/s12652-021-03510-4},
-  year = {2021},
-  month = sep,
-  publisher = {Springer Science and Business Media {LLC}},
-  author = {Isaac Lozano-Osorio and Jes{\'{u}}s S{\'{a}}nchez-Oro and Abraham Duarte and {\'{O}}scar Cord{\'{o}}n},
-  title = {A quick {GRASP}-based method for influence maximization in social networks},
-  journal = {Journal of Ambient Intelligence and Humanized Computing}
+@article{Uribe2024,
+title = {An improved GRASP method for the multiple row equal facility layout problem},
+journal = {Expert Systems with Applications},
+volume = {182},
+pages = {115184},
+year = {2021},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2021.115184},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417421006205},
+author = {Nicolás R. Uribe and Alberto Herrán and J. Manuel Colmenar and Abraham Duarte},
+keywords = {Metaheuristics, GRASP, Facility location, Row layout},
+abstract = {As it is well documented in the literature, an effective facility layout design of a company significantly increases throughput, overall productivity, and efficiency. Symmetrically, a poor facility layout results in increased work-in process and manufacturing lead time. In this paper we focus on the Multiple Row Equal Facility Layout Problem (MREFLP) which consists in locating a given set of facilities in a layout where a maximum number of rows is fixed. We propose a Greedy Randomized Adaptive Search Procedure (GRASP), with an improved local search that relies on an efficient calculation of the objective function, and a probabilistic strategy to select those solutions that will be improved. We conduct a through preliminary experimentation to investigate the influence of the proposed strategies and to tune the corresponding search parameters. Finally, we compare our best variant with current state-of-the-art algorithms over a set of 552 diverse instances. Experimental results show that the proposed GRASP finds better results spending much less execution time.}
 }
 ```
-
+<!-- 
 MDPI and ACS Style
 ```
 Lozano-Osorio, I.; Sánchez-Oro, J.; Duarte, A.; Cordón, Ó. A Quick GRASP-Based Method for Influence Maximization in Social Networks. Journal of Ambient Intelligence and Humanized Computing 2021. https://doi.org/10.1007/s12652-021-03510-4.
