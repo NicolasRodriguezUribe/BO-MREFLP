@@ -2,18 +2,19 @@
 
 The Bi-Objective Multiple Row Equal Facility Layout Problem considers both quantitative and qualitative objectives that are very useful in many scenarios like the factory design. In this work, a new multi-objective GRASP approach is proposed which applies an ensemble of four different constructive methods followed by the combination of two local search procedures, improving the results from the state of the art. Due to the superiority of this proposal, a new dataset of larger problem instances is generated, providing detailed metrics of the obtained solutions.
 
-* Paper link: [https://www.sciencedirect.com/science/article/pii/S1568494624006719](https://doi.org/10.1016/j.eswa.2021.115184)
+Paper link: [https://www.sciencedirect.com/science/article/pii/S1568494624006719](https://doi.org/10.1016/j.eswa.2021.115184)
 
 
-<!-- * Impact Factor: 3.662  -->
-<!-- * Quartil: Q2 - 68/145 - Computer Science, Artificial Intelligence | Q2 - 73/164 - Computer Science, Information Systems | 2021  <br> -->
-<!-- * Journal of Ambient Intelligence and Humanized Computing -->
+* Impact Factor: 7.2  
+* Quartil: Q1 - 27/197 - Computer Science, Artificial Intelligence | Q1 - 15/169 - Computer Science, Interdisciplinary Applications | 2023  <br> -
+* Applied Soft Computing
 
 ## Code
 The entire project is in Java. All the code used is located within the Code folder.
 
 ## Instances
 All txt format instances can be found in instances folder.
+
 ### Datasets
 + [A-10-10, A-10-90]
 + [A-12-10, A-12-90]
@@ -24,14 +25,13 @@ All txt format instances can be found in instances folder.
 + S-12, S-14, S-15, S-20, S-25
 + [Y-10, Y-60]
 + Previous6, Previous8, Previous12 & Previous15
++ 
 ## Results
 The algorithms are executed a total of 30 times. 
 Each folder contains the execution of the 4 GRASP configurations, NSGA-II, and SPEA2. 
 Each folder includes the set of non-dominated solutions obtained.
-
  
 ## Cite
-
 Please cite our paper if you use it in your own work:
 
 Bibtext
