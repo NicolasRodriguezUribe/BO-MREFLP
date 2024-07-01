@@ -2,7 +2,7 @@
 
 The Bi-Objective Multiple Row Equal Facility Layout Problem considers both quantitative and qualitative objectives that are very useful in many scenarios like the factory design. In this work, a new multi-objective GRASP approach is proposed which applies an ensemble of four different constructive methods followed by the combination of two local search procedures, improving the results from the state of the art. Due to the superiority of this proposal, a new dataset of larger problem instances is generated, providing detailed metrics of the obtained solutions.
 
-Paper link: https://doi.org/10.1016/j.asoc.2024.111897
+Paper link: https://doi.org/10.1016/j.asoc.2024.111897 (Open Access)
 
 
 * Impact Factor: 7.2  
@@ -25,7 +25,7 @@ All txt format instances can be found in instances folder.
 + S-12, S-14, S-15, S-20, S-25
 + [Y-10, Y-60]
 + Previous6, Previous8, Previous12 & Previous15
-+ 
+  
 ## Results
 The algorithms are executed a total of 30 times. 
 Each folder contains the execution of the 4 GRASP configurations, NSGA-II, and SPEA2. 
