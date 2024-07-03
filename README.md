@@ -52,7 +52,6 @@ abstract = {As it is well documented in the literature, an effective facility la
 }
 ```
 ## Contact us: 
-<br>
 Nicolás R. Uribe: nicolas.rodriguez@urjc.es <br>
 Alberto Herrán: alberto.herran@urjc.es <br>
 J. M. Colmenar: josemanuel.colmenar@urjc.es
