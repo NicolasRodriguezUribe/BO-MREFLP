@@ -6,7 +6,8 @@ Paper link: https://doi.org/10.1016/j.asoc.2024.111897 (Open Access)
 
 
 * Impact Factor: 7.2  
-* Quartil: Q1 - 27/197 - Computer Science, Artificial Intelligence | Q1 - 15/169 - Computer Science, Interdisciplinary Applications | 2023  <br> 
+* Quartil: Q1 - 27/197 - Computer Science, Artificial Intelligence <br> 
+           Q1 - 15/169 - Computer Science, Interdisciplinary Applications | 2023  
 * Applied Soft Computing
 
 ## Code
@@ -49,22 +50,10 @@ author = {Nicolás R. Uribe and Alberto Herrán and J. Manuel Colmenar and Abrah
 keywords = {Metaheuristics, GRASP, Facility location, Row layout},
 abstract = {As it is well documented in the literature, an effective facility layout design of a company significantly increases throughput, overall productivity, and efficiency. Symmetrically, a poor facility layout results in increased work-in process and manufacturing lead time. In this paper we focus on the Multiple Row Equal Facility Layout Problem (MREFLP) which consists in locating a given set of facilities in a layout where a maximum number of rows is fixed. We propose a Greedy Randomized Adaptive Search Procedure (GRASP), with an improved local search that relies on an efficient calculation of the objective function, and a probabilistic strategy to select those solutions that will be improved. We conduct a through preliminary experimentation to investigate the influence of the proposed strategies and to tune the corresponding search parameters. Finally, we compare our best variant with current state-of-the-art algorithms over a set of 552 diverse instances. Experimental results show that the proposed GRASP finds better results spending much less execution time.}
 }
-```
-<!-- 
-MDPI and ACS Style
-```
-Lozano-Osorio, I.; Sánchez-Oro, J.; Duarte, A.; Cordón, Ó. A Quick GRASP-Based Method for Influence Maximization in Social Networks. Journal of Ambient Intelligence and Humanized Computing 2021. https://doi.org/10.1007/s12652-021-03510-4.
-```
 
-AMA Style
-```
-Lozano-Osorio I, Sánchez-Oro J, Duarte A, Cordón Ó. A quick GRASP-based method for influence maximization in social networks. J Ambient Intell Human Comput. 2021.
-```
-
-Chicago/Turabian Style
-```
-Lozano-Osorio, Isaac, Jesús Sánchez-Oro, Abraham Duarte, and Óscar Cordón. “A Quick GRASP-Based Method for Influence Maximization in Social Networks.” Journal of Ambient Intelligence and Humanized Computing, September 30, 2021. https://doi.org/10.1007/s12652-021-03510-4.
-```
--->
+## Contact us:
+Nicolás R. Uribe: nicolas.rodriguez@urjc.es
+Alberto Herrán: alberto.herran@urjc.es
+J. M. Colmenar: josemanuel.colmenar@urjc.es
 
  
