@@ -51,9 +51,10 @@ keywords = {Metaheuristics, GRASP, Facility location, Row layout},
 abstract = {As it is well documented in the literature, an effective facility layout design of a company significantly increases throughput, overall productivity, and efficiency. Symmetrically, a poor facility layout results in increased work-in process and manufacturing lead time. In this paper we focus on the Multiple Row Equal Facility Layout Problem (MREFLP) which consists in locating a given set of facilities in a layout where a maximum number of rows is fixed. We propose a Greedy Randomized Adaptive Search Procedure (GRASP), with an improved local search that relies on an efficient calculation of the objective function, and a probabilistic strategy to select those solutions that will be improved. We conduct a through preliminary experimentation to investigate the influence of the proposed strategies and to tune the corresponding search parameters. Finally, we compare our best variant with current state-of-the-art algorithms over a set of 552 diverse instances. Experimental results show that the proposed GRASP finds better results spending much less execution time.}
 }
 ```
-## Contact us:
-Nicolás R. Uribe: nicolas.rodriguez@urjc.es
-Alberto Herrán: alberto.herran@urjc.es
+## Contact us: 
+<br>
+Nicolás R. Uribe: nicolas.rodriguez@urjc.es <br>
+Alberto Herrán: alberto.herran@urjc.es <br>
 J. M. Colmenar: josemanuel.colmenar@urjc.es
 
  
